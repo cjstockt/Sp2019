@@ -1,0 +1,27 @@
+{
+    "Nav":
+        [
+            {
+                "linkName": "HOME",
+                "linkURL": "index.html",
+                "idName": "home"
+            },
+
+            {
+                "linkName": "ABOUT",
+                "linkURL": "about.html",
+                "idName": "about"
+            },
+
+            {
+                "linkName": "SERVICES",
+                "linkURL": "services.html",
+                "idName": "services"
+            },
+            {
+                "linkName": "CONTACT",
+                "linkURL": "contact.html",
+                "idName": "contact"
+            }
+        ]
+}
