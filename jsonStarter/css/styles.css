@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    padding: 10px;
+}
+
+nav {
+    height: 60px;
+    width: 100%;
+    z-index: 99;
+    background-color: black;
+    display: flex;
+    position: fixed;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    margin: auto;
+}
+
+section {
+    height: 100%;
+    width: 100%;
+}

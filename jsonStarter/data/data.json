@@ -3,25 +3,50 @@
         [
             {
                 "linkName": "HOME",
-                "linkURL": "index.html",
+                "linkURL": "#",
                 "idName": "home"
             },
 
             {
                 "linkName": "ABOUT",
-                "linkURL": "about.html",
+                "linkURL": "#",
                 "idName": "about"
             },
 
             {
                 "linkName": "SERVICES",
-                "linkURL": "services.html",
+                "linkURL": "#",
                 "idName": "services"
             },
             {
                 "linkName": "CONTACT",
-                "linkURL": "contact.html",
+                "linkURL": "#",
                 "idName": "contact"
+            }
+        ],
+        "Section": [
+            {
+                "headerName": "<h1>HOME</h1>",
+                "idName": "homeSection",
+                "content": "lipsumdgtkutgbjg ntfkut bbgutdudc bgtulpudtgse6wi6eyir6rfhgmb m,kjgvftydk"
+            },
+
+            {
+                "headerName": "<h1>ABOUT</h1>",
+                "idName": "aboutSection",
+                "content": "lipsumdgtkutgbjg ntfkut bbgutdudc bgtulpudtgse6wi6eyir6rfhgmb m,kjgvftydk"
+            },
+
+            {
+                "headerName": "<h1>SERVICES</h1>",
+                "idName": "servicesSection",
+                "content": "lipsumdgtkutgbjg ntfkut bbgutdudc bgtulpudtgse6wi6eyir6rfhgmb m,kjgvftydk"
+            },
+
+            {
+                "headerName": "<h1>CONTACT</h1>",
+                "idName": "contactSection",
+                "content": "lipsumdgtkutgbjg ntfkut bbgutdudc bgtulpudtgse6wi6eyir6rfhgmb m,kjgvftydk"
             }
         ]
 }
