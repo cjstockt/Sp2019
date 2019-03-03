@@ -1,0 +1,19 @@
+#contact {
+    background-image: url(../img/b-blue-ocean-5412.jpg);
+    background-origin: border-box;
+    background-position: center;
+    background-size: cover;
+}
+
+#contCover {
+    background-color: rgba($color: #2389dc, $alpha: 0.5)
+}
+
+form {
+    text-align: left;
+}
+
+input, textarea {
+    margin-top: 15px;
+    margin-left: 15px;
+}

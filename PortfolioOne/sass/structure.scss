@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+body, .sect {
+    width: 100%;
+    height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    font-family: "Roboto", sans-serif,
+}
+
+.headSect {
+    width: 100%;
+    height: 20%;
+}
+
+.contSect {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.lftCol {
+    width: 20%;
+    height: 50%;
+    background-color: #E1C478;
+    h3 {
+        padding: 10px;
+    }
+}
+
+.rghtCol {
+    width: 40%;
+    height: 50%;
+    background-color: #E1C478;
+}

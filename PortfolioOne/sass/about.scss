@@ -1,0 +1,13 @@
+#about {
+    background-image: url(../img/IUPUI_logo_full.png);
+    background-origin: border-box;
+    background-position: right;
+    background-size: cover;
+}
+
+.aboutText {
+    width: 50%;
+    height: 50%;
+    background-color: rgba($color: #a90533, $alpha: 0.75);
+    padding: 10px;
+}
